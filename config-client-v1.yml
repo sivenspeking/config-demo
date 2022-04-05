@@ -1,6 +1,7 @@
+# 服务端口
 server:
   port: 3001
 
-# current version info
+# 当前版本信息 
 version:
-  message: 20305
+  message: 'yyyys'
